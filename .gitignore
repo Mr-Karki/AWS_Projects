@@ -1,0 +1,19 @@
+    # Python virtual environment
+
+    venv/
+    *.pyc
+    __pycache__/
+ 
+    source/
+    organized/
+ 
+    .aws/
+ 
+    .DS_Store
+    Thumbs.db
+
+    .vscode/
+
+    *.log
+    logs/
+    
