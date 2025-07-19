@@ -148,9 +148,11 @@ Since the project doesn't run continuously, here are some screenshots to demonst
     * Screenshot of`organized/`directory with unorganized files.
     ![Organized Directory After Organization](images/organized_after.png)
 
-   ![Csv Directory in organized](images/organized_csv.png)
+    * Screenshot of`csv/`directory with organized csv files.
+    ![Csv Directory in organized](images/organized_csv.png)
 
-   ![Png Directory in organized](images/organized_png.png)
+    * Screenshot of`png/`directory with organized png files.
+    ![Png Directory in organized](images/organized_png.png)
 
 
 3.  **AWS S3 Upload Confirmation:**
